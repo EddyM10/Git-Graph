@@ -8,3 +8,7 @@
 - push to bug-fix origin
 - commit #4
 - push to bug-fix origin
+- merge main into bug-fix branch(commit #5)
+- push to bug-fix origin
+- commit #6
+- push to bug-fix origin
