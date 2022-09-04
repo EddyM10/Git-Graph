@@ -4,5 +4,7 @@
 - push to main branch origin
 - commit #2
 - push to main branch origin
-- create branch bug-fix from commit #0
+- create branch bug-fix from commit #0 named commit #3
+- push to bug-fix origin
+- commit #4
 - push to bug-fix origin
