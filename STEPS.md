@@ -5,6 +5,9 @@
 - commit #2
 - push to main branch origin
 - create branch bug-fix from commit #0 named commit #3
-- push to bug-fix origin
+- push to bug-fix origin(published)
 - commit #4
 - push to bug-fix origin
+- created branch bug-fix-experimental
+- commit #7
+- push to bug-fix-experimental origin(published)
